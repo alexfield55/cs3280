@@ -1,0 +1,13 @@
+C:\Users\alexf\Documents\GitHub\cs3280\Assignment1Project1\bin\Debug\netcoreapp3.1\Assignment1Project1.exe
+C:\Users\alexf\Documents\GitHub\cs3280\Assignment1Project1\bin\Debug\netcoreapp3.1\Assignment1Project1.deps.json
+C:\Users\alexf\Documents\GitHub\cs3280\Assignment1Project1\bin\Debug\netcoreapp3.1\Assignment1Project1.runtimeconfig.json
+C:\Users\alexf\Documents\GitHub\cs3280\Assignment1Project1\bin\Debug\netcoreapp3.1\Assignment1Project1.runtimeconfig.dev.json
+C:\Users\alexf\Documents\GitHub\cs3280\Assignment1Project1\bin\Debug\netcoreapp3.1\Assignment1Project1.dll
+C:\Users\alexf\Documents\GitHub\cs3280\Assignment1Project1\bin\Debug\netcoreapp3.1\Assignment1Project1.pdb
+C:\Users\alexf\Documents\GitHub\cs3280\Assignment1Project1\obj\Debug\netcoreapp3.1\Assignment1Project1.csprojAssemblyReference.cache
+C:\Users\alexf\Documents\GitHub\cs3280\Assignment1Project1\obj\Debug\netcoreapp3.1\Assignment1Project1.AssemblyInfoInputs.cache
+C:\Users\alexf\Documents\GitHub\cs3280\Assignment1Project1\obj\Debug\netcoreapp3.1\Assignment1Project1.AssemblyInfo.cs
+C:\Users\alexf\Documents\GitHub\cs3280\Assignment1Project1\obj\Debug\netcoreapp3.1\Assignment1Project1.csproj.CoreCompileInputs.cache
+C:\Users\alexf\Documents\GitHub\cs3280\Assignment1Project1\obj\Debug\netcoreapp3.1\Assignment1Project1.dll
+C:\Users\alexf\Documents\GitHub\cs3280\Assignment1Project1\obj\Debug\netcoreapp3.1\Assignment1Project1.pdb
+C:\Users\alexf\Documents\GitHub\cs3280\Assignment1Project1\obj\Debug\netcoreapp3.1\Assignment1Project1.genruntimeconfig.cache
